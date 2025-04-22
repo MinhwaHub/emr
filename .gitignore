@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.zip
+cross_project/stepfunctions/
+cross_project/src/base.py
+cross_project/lambda/
